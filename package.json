@@ -1,0 +1,7 @@
+{
+  "name": "test-yarn-berry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "chenxsan",
+  "license": "MIT"
+}
